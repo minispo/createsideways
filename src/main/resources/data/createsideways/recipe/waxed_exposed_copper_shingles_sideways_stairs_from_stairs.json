@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "createsideways_sideways_stairs",
+  "ingredients": [
+    {
+      "item": "create:waxed_exposed_copper_shingle_stairs"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "createsideways:waxed_exposed_copper_shingles_sideways_stairs"
+  }
+}

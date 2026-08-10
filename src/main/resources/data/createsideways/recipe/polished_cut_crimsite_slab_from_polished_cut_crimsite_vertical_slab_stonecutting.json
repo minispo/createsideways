@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createsideways:polished_cut_crimsite_vertical_slab"
+  },
+  "result": {
+    "count": 1,
+    "id": "create:polished_cut_crimsite_slab"
+  }
+}

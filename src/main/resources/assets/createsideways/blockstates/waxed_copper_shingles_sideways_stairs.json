@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=north,waterlogged=false": {
+      "model": "createsideways:block/waxed_copper_shingles/stairs/north"
+    },
+    "facing=north,waterlogged=true": {
+      "model": "createsideways:block/waxed_copper_shingles/stairs/north"
+    },
+    "facing=east,waterlogged=false": {
+      "model": "createsideways:block/waxed_copper_shingles/stairs/east"
+    },
+    "facing=east,waterlogged=true": {
+      "model": "createsideways:block/waxed_copper_shingles/stairs/east"
+    },
+    "facing=south,waterlogged=false": {
+      "model": "createsideways:block/waxed_copper_shingles/stairs/south"
+    },
+    "facing=south,waterlogged=true": {
+      "model": "createsideways:block/waxed_copper_shingles/stairs/south"
+    },
+    "facing=west,waterlogged=false": {
+      "model": "createsideways:block/waxed_copper_shingles/stairs/west"
+    },
+    "facing=west,waterlogged=true": {
+      "model": "createsideways:block/waxed_copper_shingles/stairs/west"
+    }
+  }
+}

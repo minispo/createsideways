@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "createsideways:cut_asurine_bricks_vertical_slab"
+    },
+    {
+      "item": "createsideways:cut_asurine_bricks_vertical_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:cut_asurine_bricks"
+  }
+}

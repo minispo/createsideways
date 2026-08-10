@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "createsideways_sideways_stairs",
+  "ingredients": [
+    {
+      "item": "create:cut_veridium_brick_stairs"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "createsideways:cut_veridium_bricks_sideways_stairs"
+  }
+}

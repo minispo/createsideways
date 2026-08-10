@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "createsideways:cut_calcite_sideways_stairs",
+    "createsideways:polished_cut_calcite_sideways_stairs",
+    "createsideways:cut_calcite_bricks_sideways_stairs",
+    "createsideways:small_calcite_bricks_sideways_stairs"
+  ]
+}

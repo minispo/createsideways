@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "create:oxidized_copper_tile_stairs"
+  },
+  "result": {
+    "count": 1,
+    "id": "createsideways:oxidized_copper_tiles_sideways_stairs"
+  }
+}

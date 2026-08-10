@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=east,waterlogged=false": {
+      "model": "createsideways:block/cracked_verdant_bricks/stairs/missing_se"
+    },
+    "facing=east,waterlogged=true": {
+      "model": "createsideways:block/cracked_verdant_bricks/stairs/missing_se"
+    },
+    "facing=south,waterlogged=false": {
+      "model": "createsideways:block/cracked_verdant_bricks/stairs/missing_sw"
+    },
+    "facing=south,waterlogged=true": {
+      "model": "createsideways:block/cracked_verdant_bricks/stairs/missing_sw"
+    },
+    "facing=west,waterlogged=false": {
+      "model": "createsideways:block/cracked_verdant_bricks/stairs/missing_nw"
+    },
+    "facing=west,waterlogged=true": {
+      "model": "createsideways:block/cracked_verdant_bricks/stairs/missing_nw"
+    },
+    "facing=north,waterlogged=false": {
+      "model": "createsideways:block/cracked_verdant_bricks/stairs/missing_ne"
+    },
+    "facing=north,waterlogged=true": {
+      "model": "createsideways:block/cracked_verdant_bricks/stairs/missing_ne"
+    }
+  }
+}

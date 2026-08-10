@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "createsideways_vertical_slab",
+  "ingredients": [
+    {
+      "item": "create:cut_andesite_brick_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "createsideways:cut_andesite_bricks_vertical_slab"
+  }
+}

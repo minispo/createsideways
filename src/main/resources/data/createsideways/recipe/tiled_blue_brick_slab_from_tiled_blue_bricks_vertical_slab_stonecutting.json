@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createdeco"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createsideways:tiled_blue_bricks_vertical_slab"
+  },
+  "result": {
+    "count": 1,
+    "id": "createdeco:tiled_blue_brick_slab"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "createsideways:cut_tuff_sideways_stairs",
+    "createsideways:polished_cut_tuff_sideways_stairs",
+    "createsideways:cut_tuff_bricks_sideways_stairs",
+    "createsideways:small_tuff_bricks_sideways_stairs"
+  ]
+}

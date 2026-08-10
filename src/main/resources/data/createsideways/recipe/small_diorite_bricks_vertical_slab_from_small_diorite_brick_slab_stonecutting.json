@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "create:small_diorite_brick_slab"
+  },
+  "result": {
+    "count": 1,
+    "id": "createsideways:small_diorite_bricks_vertical_slab"
+  }
+}

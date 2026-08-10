@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "createsideways:small_granite_bricks_sideways_stairs"
+        }
+      ]
+    }
+  ]
+}

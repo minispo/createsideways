@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "createsideways:cut_limestone_sideways_stairs",
+    "createsideways:polished_cut_limestone_sideways_stairs",
+    "createsideways:cut_limestone_bricks_sideways_stairs",
+    "createsideways:small_limestone_bricks_sideways_stairs"
+  ]
+}

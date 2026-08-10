@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createdeco"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createdeco:dean_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "createsideways:short_dean_bricks_sideways_stairs"
+  }
+}

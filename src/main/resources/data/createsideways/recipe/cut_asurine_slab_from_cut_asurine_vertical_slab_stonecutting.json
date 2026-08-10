@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createsideways:cut_asurine_vertical_slab"
+  },
+  "result": {
+    "count": 1,
+    "id": "create:cut_asurine_slab"
+  }
+}

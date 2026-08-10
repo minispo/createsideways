@@ -1,0 +1,40 @@
+{
+  "values": {
+    "createsideways:copper_shingles_sideways_stairs": {
+      "next_oxidation_stage": "createsideways:exposed_copper_shingles_sideways_stairs"
+    },
+    "createsideways:copper_shingles_vertical_slab": {
+      "next_oxidation_stage": "createsideways:exposed_copper_shingles_vertical_slab"
+    },
+    "createsideways:copper_tiles_sideways_stairs": {
+      "next_oxidation_stage": "createsideways:exposed_copper_tiles_sideways_stairs"
+    },
+    "createsideways:copper_tiles_vertical_slab": {
+      "next_oxidation_stage": "createsideways:exposed_copper_tiles_vertical_slab"
+    },
+    "createsideways:exposed_copper_shingles_sideways_stairs": {
+      "next_oxidation_stage": "createsideways:weathered_copper_shingles_sideways_stairs"
+    },
+    "createsideways:exposed_copper_shingles_vertical_slab": {
+      "next_oxidation_stage": "createsideways:weathered_copper_shingles_vertical_slab"
+    },
+    "createsideways:exposed_copper_tiles_sideways_stairs": {
+      "next_oxidation_stage": "createsideways:weathered_copper_tiles_sideways_stairs"
+    },
+    "createsideways:exposed_copper_tiles_vertical_slab": {
+      "next_oxidation_stage": "createsideways:weathered_copper_tiles_vertical_slab"
+    },
+    "createsideways:weathered_copper_shingles_sideways_stairs": {
+      "next_oxidation_stage": "createsideways:oxidized_copper_shingles_sideways_stairs"
+    },
+    "createsideways:weathered_copper_shingles_vertical_slab": {
+      "next_oxidation_stage": "createsideways:oxidized_copper_shingles_vertical_slab"
+    },
+    "createsideways:weathered_copper_tiles_sideways_stairs": {
+      "next_oxidation_stage": "createsideways:oxidized_copper_tiles_sideways_stairs"
+    },
+    "createsideways:weathered_copper_tiles_vertical_slab": {
+      "next_oxidation_stage": "createsideways:oxidized_copper_tiles_vertical_slab"
+    }
+  }
+}

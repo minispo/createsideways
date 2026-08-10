@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "createsideways:cut_ochrum_sideways_stairs",
+    "createsideways:polished_cut_ochrum_sideways_stairs",
+    "createsideways:cut_ochrum_bricks_sideways_stairs",
+    "createsideways:small_ochrum_bricks_sideways_stairs"
+  ]
+}

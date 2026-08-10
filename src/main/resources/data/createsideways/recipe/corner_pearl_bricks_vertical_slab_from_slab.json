@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createdeco"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "createsideways_vertical_slab",
+  "ingredients": [
+    {
+      "item": "createdeco:corner_pearl_brick_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "createsideways:corner_pearl_bricks_vertical_slab"
+  }
+}

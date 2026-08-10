@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "create:cut_calcite_slab"
+  },
+  "result": {
+    "count": 1,
+    "id": "createsideways:cut_calcite_vertical_slab"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "createsideways:cut_scoria_sideways_stairs",
+    "createsideways:polished_cut_scoria_sideways_stairs",
+    "createsideways:cut_scoria_bricks_sideways_stairs",
+    "createsideways:small_scoria_bricks_sideways_stairs"
+  ]
+}

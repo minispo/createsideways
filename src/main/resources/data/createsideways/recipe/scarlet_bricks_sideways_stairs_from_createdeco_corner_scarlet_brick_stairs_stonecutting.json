@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createdeco"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createdeco:corner_scarlet_brick_stairs"
+  },
+  "result": {
+    "count": 1,
+    "id": "createsideways:scarlet_bricks_sideways_stairs"
+  }
+}

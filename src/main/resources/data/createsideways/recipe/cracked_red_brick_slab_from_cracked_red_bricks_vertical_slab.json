@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createdeco"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "createsideways_vertical_slab",
+  "ingredients": [
+    {
+      "item": "createsideways:cracked_red_bricks_vertical_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:cracked_red_brick_slab"
+  }
+}

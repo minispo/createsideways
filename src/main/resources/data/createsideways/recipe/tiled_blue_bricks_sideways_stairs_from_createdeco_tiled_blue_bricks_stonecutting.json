@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createdeco"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createdeco:tiled_blue_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "createsideways:tiled_blue_bricks_sideways_stairs"
+  }
+}

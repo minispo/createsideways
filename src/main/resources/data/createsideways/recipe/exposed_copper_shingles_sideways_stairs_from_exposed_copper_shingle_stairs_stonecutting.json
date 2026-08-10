@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "create:exposed_copper_shingle_stairs"
+  },
+  "result": {
+    "count": 1,
+    "id": "createsideways:exposed_copper_shingles_sideways_stairs"
+  }
+}

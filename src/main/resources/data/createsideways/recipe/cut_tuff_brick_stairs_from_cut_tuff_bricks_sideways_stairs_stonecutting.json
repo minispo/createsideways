@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createsideways:cut_tuff_bricks_sideways_stairs"
+  },
+  "result": {
+    "count": 1,
+    "id": "create:cut_tuff_brick_stairs"
+  }
+}

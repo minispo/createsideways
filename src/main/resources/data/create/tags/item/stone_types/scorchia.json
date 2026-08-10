@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "createsideways:cut_scorchia_sideways_stairs",
+    "createsideways:polished_cut_scorchia_sideways_stairs",
+    "createsideways:cut_scorchia_bricks_sideways_stairs",
+    "createsideways:small_scorchia_bricks_sideways_stairs"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "create:stone_types/crimsite"
+  },
+  "result": {
+    "count": 1,
+    "id": "createsideways:cut_crimsite_bricks_sideways_stairs"
+  }
+}

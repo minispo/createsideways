@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=north,waterlogged=false": {
+      "model": "createsideways:block/oxidized_copper_shingles/slab/north"
+    },
+    "facing=north,waterlogged=true": {
+      "model": "createsideways:block/oxidized_copper_shingles/slab/north"
+    },
+    "facing=east,waterlogged=false": {
+      "model": "createsideways:block/oxidized_copper_shingles/slab/east"
+    },
+    "facing=east,waterlogged=true": {
+      "model": "createsideways:block/oxidized_copper_shingles/slab/east"
+    },
+    "facing=south,waterlogged=false": {
+      "model": "createsideways:block/oxidized_copper_shingles/slab/south"
+    },
+    "facing=south,waterlogged=true": {
+      "model": "createsideways:block/oxidized_copper_shingles/slab/south"
+    },
+    "facing=west,waterlogged=false": {
+      "model": "createsideways:block/oxidized_copper_shingles/slab/west"
+    },
+    "facing=west,waterlogged=true": {
+      "model": "createsideways:block/oxidized_copper_shingles/slab/west"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createsideways:waxed_weathered_copper_tiles_sideways_stairs"
+  },
+  "result": {
+    "count": 1,
+    "id": "create:waxed_weathered_copper_tile_stairs"
+  }
+}

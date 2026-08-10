@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "createsideways:mossy_dusk_bricks_vertical_slab"
+        }
+      ]
+    }
+  ]
+}

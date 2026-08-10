@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "create:waxed_exposed_copper_tile_slab"
+  },
+  "result": {
+    "count": 1,
+    "id": "createsideways:waxed_exposed_copper_tiles_vertical_slab"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createsideways:small_deepslate_bricks_sideways_stairs"
+  },
+  "result": {
+    "count": 1,
+    "id": "create:small_deepslate_brick_stairs"
+  }
+}

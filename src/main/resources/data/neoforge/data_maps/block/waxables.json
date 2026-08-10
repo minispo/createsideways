@@ -1,0 +1,52 @@
+{
+  "values": {
+    "createsideways:copper_shingles_sideways_stairs": {
+      "waxed": "createsideways:waxed_copper_shingles_sideways_stairs"
+    },
+    "createsideways:copper_shingles_vertical_slab": {
+      "waxed": "createsideways:waxed_copper_shingles_vertical_slab"
+    },
+    "createsideways:copper_tiles_sideways_stairs": {
+      "waxed": "createsideways:waxed_copper_tiles_sideways_stairs"
+    },
+    "createsideways:copper_tiles_vertical_slab": {
+      "waxed": "createsideways:waxed_copper_tiles_vertical_slab"
+    },
+    "createsideways:exposed_copper_shingles_sideways_stairs": {
+      "waxed": "createsideways:waxed_exposed_copper_shingles_sideways_stairs"
+    },
+    "createsideways:exposed_copper_shingles_vertical_slab": {
+      "waxed": "createsideways:waxed_exposed_copper_shingles_vertical_slab"
+    },
+    "createsideways:exposed_copper_tiles_sideways_stairs": {
+      "waxed": "createsideways:waxed_exposed_copper_tiles_sideways_stairs"
+    },
+    "createsideways:exposed_copper_tiles_vertical_slab": {
+      "waxed": "createsideways:waxed_exposed_copper_tiles_vertical_slab"
+    },
+    "createsideways:oxidized_copper_shingles_sideways_stairs": {
+      "waxed": "createsideways:waxed_oxidized_copper_shingles_sideways_stairs"
+    },
+    "createsideways:oxidized_copper_shingles_vertical_slab": {
+      "waxed": "createsideways:waxed_oxidized_copper_shingles_vertical_slab"
+    },
+    "createsideways:oxidized_copper_tiles_sideways_stairs": {
+      "waxed": "createsideways:waxed_oxidized_copper_tiles_sideways_stairs"
+    },
+    "createsideways:oxidized_copper_tiles_vertical_slab": {
+      "waxed": "createsideways:waxed_oxidized_copper_tiles_vertical_slab"
+    },
+    "createsideways:weathered_copper_shingles_sideways_stairs": {
+      "waxed": "createsideways:waxed_weathered_copper_shingles_sideways_stairs"
+    },
+    "createsideways:weathered_copper_shingles_vertical_slab": {
+      "waxed": "createsideways:waxed_weathered_copper_shingles_vertical_slab"
+    },
+    "createsideways:weathered_copper_tiles_sideways_stairs": {
+      "waxed": "createsideways:waxed_weathered_copper_tiles_sideways_stairs"
+    },
+    "createsideways:weathered_copper_tiles_vertical_slab": {
+      "waxed": "createsideways:waxed_weathered_copper_tiles_vertical_slab"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "create:stone_types/andesite"
+  },
+  "result": {
+    "count": 2,
+    "id": "createsideways:cut_andesite_vertical_slab"
+  }
+}

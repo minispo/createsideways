@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createdeco"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createdeco:short_pearl_bricks"
+  },
+  "result": {
+    "count": 2,
+    "id": "createsideways:pearl_bricks_vertical_slab"
+  }
+}

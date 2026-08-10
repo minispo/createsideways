@@ -1,0 +1,36 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "nw": "true"
+      },
+      "apply": {
+        "model": "createsideways:block/tiled_red_bricks/slab/pillar_nw"
+      }
+    },
+    {
+      "when": {
+        "ne": "true"
+      },
+      "apply": {
+        "model": "createsideways:block/tiled_red_bricks/slab/pillar_ne"
+      }
+    },
+    {
+      "when": {
+        "sw": "true"
+      },
+      "apply": {
+        "model": "createsideways:block/tiled_red_bricks/slab/pillar_sw"
+      }
+    },
+    {
+      "when": {
+        "se": "true"
+      },
+      "apply": {
+        "model": "createsideways:block/tiled_red_bricks/slab/pillar_se"
+      }
+    }
+  ]
+}

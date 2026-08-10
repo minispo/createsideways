@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "createsideways:cut_granite_sideways_stairs",
+    "createsideways:polished_cut_granite_sideways_stairs",
+    "createsideways:cut_granite_bricks_sideways_stairs",
+    "createsideways:small_granite_bricks_sideways_stairs"
+  ]
+}

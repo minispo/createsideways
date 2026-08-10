@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createdeco"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "createsideways:mossy_verdant_bricks_vertical_slab"
+  },
+  "result": {
+    "count": 1,
+    "id": "createdeco:mossy_verdant_brick_slab"
+  }
+}

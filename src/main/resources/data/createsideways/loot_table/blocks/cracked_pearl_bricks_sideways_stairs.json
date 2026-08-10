@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "createsideways:cracked_pearl_bricks_sideways_stairs"
+        }
+      ]
+    }
+  ]
+}
