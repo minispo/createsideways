@@ -1,25 +1,26 @@
+# Create: Sideways
 
-Installation information
-=======
+An add-on mod that adds vertical slabs and sideways stairs to Create's building blocks.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+## Highlights
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+### Seamless textures
+Sideways stairs line up with full blocks and slabs without any pattern misalignment,
+connecting seamlessly.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+### Automatic shaping for vertical slabs
+At corners, vertical slabs automatically take on the appearance of sideways stairs or
+quarter pillars. They behave just like vanilla stairs, so you can build intuitively
+without cluttering your inventory.
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+---
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+## Supported Blocks
+
+Currently supports 254 building blocks from Create and Create Deco.
+
+## Requirements
+
+This mod references Create's textures to add its new blocks, so Create is required.
+Create Deco is not required, but is recommended, as this mod also adds new blocks
+based on Create Deco's building blocks.
